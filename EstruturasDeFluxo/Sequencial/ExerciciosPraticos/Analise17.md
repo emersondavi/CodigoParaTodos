@@ -1,5 +1,5 @@
 # Exercício 17
-[Ver Algoritmo](Algoritmo17.md)
+[**Ver Algoritmo**](Algoritmo17.md)
 
 *Faça um pseudocódigo que receba o valor de um produto e o valor fornecido por um cliente, **sabidamente maiores que zero e o valor fornecido do cliente sendo 
 maior ou igual ao valor do produto**, e apresente o valor de um troco a ser dado após a compra do produto.*
