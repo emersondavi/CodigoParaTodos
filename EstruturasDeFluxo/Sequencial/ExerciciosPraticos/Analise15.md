@@ -1,5 +1,5 @@
 # Exercício 15
-[Ver algoritmo](Algoritmo15.md)
+[**Ver algoritmo**](Algoritmo15.md)
 
 *Faça um pseudocódigo que receba a idade da pessoa, **sabidamente maior que zero**, e informe a quantidade de meses que essa idade corresponde.*
 
