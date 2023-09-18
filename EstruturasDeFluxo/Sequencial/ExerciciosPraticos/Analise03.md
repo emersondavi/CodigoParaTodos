@@ -1,4 +1,4 @@
-# Análise Exercício 03
+# Exercício 03
 [**Ver Algoritmo**](Algoritmo03.md)
 
 *Faça um pseudocódigo que apresente a multiplicação entre dois números informados pelo usuário.*
