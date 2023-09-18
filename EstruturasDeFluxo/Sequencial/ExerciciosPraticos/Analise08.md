@@ -1,5 +1,5 @@
 # Exercício 08
-[Ver algoritmo](Algoritmo08.md)
+[**Ver algoritmo**](Algoritmo08.md)
 
 *Faça um pseudocódigo que receba a medida do lado de um quadrado, sabidamente maior que 0, e imprima o valor do seu perímetro.*
 
