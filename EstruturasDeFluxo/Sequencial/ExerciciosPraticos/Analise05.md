@@ -1,5 +1,5 @@
-# Análise Exercício 05
-[Ver algoritmo](Algoritmo05.md)
+# Exercício 05
+[**Ver algoritmo**](Algoritmo05.md)
 
 Faça um pseudocódigo que receba um número inteiro n informado pelo usuário e apresente o seu valor elevado ao cubo.
 
