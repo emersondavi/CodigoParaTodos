@@ -1,5 +1,7 @@
 # Exercício 01
 
+[Ver algoritmo](AlgoritmoEX01.md)
+
 **1)** Faça um pseudocódigo que apresente a soma entre dois números informados pelo usuário.
 
 **Entrada** <br>
