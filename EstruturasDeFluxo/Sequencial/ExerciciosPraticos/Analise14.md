@@ -1,5 +1,5 @@
 # Exercício 14
-[Ver algoritmo](Algoritmo14.md)
+[**Ver algoritmo**](Algoritmo14.md)
 
 *Faça um pseudocódigo que receba o ano de nascimento de uma pessoa, sabidamente **maior que zero**, e informe a idade dessa pessoa atualmente.*
 
