@@ -1,5 +1,5 @@
-# Algoritmo Exercício 01
-[Ver análise](AnaliseEX01.md)
+#  Exercício 01
+[**Ver análise**](Analise01.md)
 
 Algoritmo "Q1 - exSequencial"
 
