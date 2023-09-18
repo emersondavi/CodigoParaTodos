@@ -1,6 +1,6 @@
 # Exercício 02
 
-[**Ver Algoritmo**](AlgoritmoEX02.md)
+[**Ver Algoritmo**](Algoritmo02.md)
 
 *Faça um pseudocódigo que apresente a subtração entre dois números informados pelo usuário.*
 
