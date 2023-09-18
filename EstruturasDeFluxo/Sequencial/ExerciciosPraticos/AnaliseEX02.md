@@ -1,5 +1,7 @@
 # Exercício 02
 
+[Ver algoritmo](AlgoritmoEX02.md)
+
 Faça um pseudocódigo que apresente a subtração entre dois números informados pelo usuário.
 
 **Entrada**
