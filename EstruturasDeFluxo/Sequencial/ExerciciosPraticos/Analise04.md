@@ -1,7 +1,7 @@
 # Análise Exercício 04
 [Ver algoritmo](AlgoritmoEX04.md)
 
-Faça um pseudocódigo que apresente a divisão entre dois números, sabidamente diferentes de 0, informados pelo usuário.
+*Faça um pseudocódigo que apresente a divisão entre dois números, sabidamente diferentes de 0, informados pelo usuário.
 
 **Entrada**
 
