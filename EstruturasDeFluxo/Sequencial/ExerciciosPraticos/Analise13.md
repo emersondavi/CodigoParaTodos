@@ -1,5 +1,5 @@
 # Exercício 13
-[Ver algortitmo](Algoritmo13.md)
+[**Ver algortitmo**](Algoritmo13.md)
 
 *Faça um pseudocódigo que receba a quantidade de vitórias e a quantidade de empates que um time de futebol tem, 
 sabidamente maiores ou iguais a zero, apresente o número de pontos acumulados pelo time em um campeonato até o momento.*
