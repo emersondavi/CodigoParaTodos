@@ -1,5 +1,5 @@
 # Exercício 5
-[**Ver Análise**](Analise0.md)
+[**Ver Análise**](Analise05.md)
 
   Algoritmo "Q5 - exSequencial"
 
