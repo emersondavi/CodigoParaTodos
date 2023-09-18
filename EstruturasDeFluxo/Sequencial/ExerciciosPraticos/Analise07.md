@@ -1,5 +1,5 @@
-# Análise Exercício 07
-[Ver algoritmo](Algoritmo07.md)
+# Exercício 07
+[**Ver algoritmo**](Algoritmo07.md)
 
 *Faça um pseudocódigo que receba um número n positivo e que prove que n² + 2.n + 1 = (n+1)².*
 
