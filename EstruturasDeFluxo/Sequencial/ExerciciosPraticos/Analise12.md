@@ -1,5 +1,5 @@
 # Exercício 10
-[Ver algoritmo](Algoritmo11.md)
+[**Ver algoritmo**](Algoritmo11.md)
 
 *Faça um pseudocódigo que receba a medida do raio de um círculo, sabidamente maior que 0, e imprima o valor de sua área.
 Considere π = 3,14.*
