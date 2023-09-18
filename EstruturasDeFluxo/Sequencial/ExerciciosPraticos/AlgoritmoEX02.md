@@ -1,5 +1,5 @@
 # Algoritmo Exercício 02
-[Análise do Exercício 02](AnaliseEX02.md)
+[Ver análise](AnaliseEX02.md)
 
 Algoritmo "Q2 - exSequencial"
 
