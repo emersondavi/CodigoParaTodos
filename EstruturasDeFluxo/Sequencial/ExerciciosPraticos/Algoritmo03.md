@@ -1,4 +1,4 @@
-# Execício 03
+# Exercício 03
 [**Ver análise**](Analise03.md)
 
 Algoritmo "Q3 - exSequencial"
