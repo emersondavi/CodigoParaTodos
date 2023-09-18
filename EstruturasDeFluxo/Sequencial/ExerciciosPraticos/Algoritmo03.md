@@ -1,5 +1,5 @@
-# Algoritmo Execício 03
-[Ver análise](AnaliseEX03.md)
+# Execício 03
+[**Ver análise**](AnaliseEX03.md)
 
 Algoritmo "Q3 - exSequencial"
 
