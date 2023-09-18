@@ -1,5 +1,5 @@
 # Exercicio 16
-[Ver algoritmo](Algoritmo16.md)
+[**Ver algoritmo**](Algoritmo16.md)
 
 *Faça um pseudocódigo que leia 2 valores, x e y, e apresente os valores trocados, ou seja, o valor de x será colocado em y e vice-versa.*
 
