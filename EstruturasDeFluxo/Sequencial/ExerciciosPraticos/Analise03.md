@@ -1,7 +1,7 @@
 # Análise Exercício 03
-[Ver algoritmo](AlgoritmoEX03.md)
+[**Ver Algoritmo**](Algoritmo03.md)
 
-Faça um pseudocódigo que apresente a multiplicação entre dois números informados pelo usuário.
+*Faça um pseudocódigo que apresente a multiplicação entre dois números informados pelo usuário.*
 
 **Entrada**
 
