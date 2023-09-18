@@ -6,19 +6,20 @@
 
 **Entrada** <br>
 
-Dois números n e m.
+- Dois números n e m.
 
 **Saída** <br>
 
-A soma de n e m.
+- A soma de n e m.
 
 **Restrições** <br>
 
-● nenhuma.
+- nenhuma.
 
 **Exemplos**
 
 |Entrada    | Saída  |
 |---|- |
-|2, 9 11    |  0.1, -2.9 -2.8 |
+|2, 9| 11|
+|  0.1, -2.9| -2.8 |
 
