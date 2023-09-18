@@ -1,4 +1,4 @@
-# Exercício 02
+# Algoritmo exercício 02
 
 Algoritmo "Q2 - exSequencial"
 
