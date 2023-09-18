@@ -20,5 +20,6 @@ Faça um pseudocódigo que apresente a subtração entre dois números informado
 
 |Entrada |Saída |
 -|-
-0, -10 10|10.1, 1.1 9|
+0, -10|10|
+10.1, 1.1| 9|
 
