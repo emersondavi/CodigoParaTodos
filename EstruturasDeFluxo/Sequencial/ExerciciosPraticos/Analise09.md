@@ -1,5 +1,5 @@
 # Exercício 09
-[Ver algoritmo](Algoritmo09.md)
+[**Ver algoritmo**](Algoritmo09.md)
 
 *Faça um pseudocódigo que receba a medida do lado de um quadrado, sabidamente maior que 0, e imprima o valor de sua área.*
 
