@@ -19,4 +19,5 @@ Faça um pseudocódigo que apresente a divisão entre dois números, sabidamente
 
 |Entrada |Saída|
 |-|-|
-|10, 4 2.5|-29, 0.5 -58|
+|10, 4 |2.5|
+|-29, 0.5| -58|
