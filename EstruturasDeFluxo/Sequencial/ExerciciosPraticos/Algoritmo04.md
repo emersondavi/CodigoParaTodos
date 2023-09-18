@@ -1,5 +1,5 @@
-# Algortimo Execício 04
-[Ver análise](AnaliseEX04.md)
+#  Execício 04
+[**Ver análise**](AnaliseEX04.md)
 
 Algoritmo "Q4 - exSequencial"
 
