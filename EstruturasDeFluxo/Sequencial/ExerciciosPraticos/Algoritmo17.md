@@ -1,7 +1,7 @@
 # Exercício 17
 [**Ver Análise**](Analise17.md)
 
-lgoritmo "Q17 - exSequencial"
+Algoritmo "Q17 - exSequencial"
 
 Var
 
